@@ -45,3 +45,9 @@ footer {
     background-color: #931420;
     color: white;
 }
+
+.speakers-heading {
+    border: double 6px #800000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
