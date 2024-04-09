@@ -1,0 +1,47 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    border: 3px solid #931420;
+    background-color: #fffded;
+}
+
+html {
+    background-color: white;
+}
+
+header {
+    border-bottom: 3px solid #931420;
+    padding-top: 1.5em;
+    padding-bottom: 2em;
+    background: linear-gradient(30deg, #6bb73, #6bb73 30%, white 50%, #f6bb73 80%, #6bb73);
+}
+
+header img {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+h1 {
+    border-top: 3px solid #931420;
+    border-bottom: 3px solid #931420;
+}
+
+main {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+footer {
+    background-color: #931420;
+    color: white;
+}
